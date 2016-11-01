@@ -1,0 +1,15 @@
+{
+    "name": "noshankus.bk-monokai",
+    "title": "BK Monokai",
+    "description": "Brackets Monokai-esque Theme!",
+    "homepage": "https://github.com/noshankus/bk-monokai",
+    "version": "1.0.0",
+    "author": "Noshankus",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
